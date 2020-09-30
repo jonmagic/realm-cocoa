@@ -1,4 +1,4 @@
 [submodule "Realm/ObjectStore"]
 	path = Realm/ObjectStore
-	url = https://github.com/jonmagic/realm-object-store.git
+	url = https://garage.github.com/jonmagic/realm-object-store.git
 	branch = master
